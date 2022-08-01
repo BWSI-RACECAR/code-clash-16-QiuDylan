@@ -85,7 +85,7 @@ class Solution:
 
             unvisited_nodes.remove(current_min_node)
 
-
+            return len(unvisited_nodes)
 
 
         pass
